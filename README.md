@@ -1,4 +1,4 @@
-![Badge icon](https://github.com/huy9x101/cicd-typescript/actions/workflows/star.svg)
+![Star icon](https://github.com/huy9x101/cicd-typescript/actions/workflows/star.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
